@@ -1,0 +1,11 @@
+{
+  "name": "01.09hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon utils/readFile.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
